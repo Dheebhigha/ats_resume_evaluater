@@ -34,8 +34,4 @@ This helps recruiters make faster decisions and job seekers optimize resumes for
 
 ---
 
-## ⚡ Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/ats-resume-evaluator.git
-   cd ats-resume-evaluator
+
